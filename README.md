@@ -11,6 +11,8 @@ This project aims to group patent claims into topics using various models. It fa
 
 3. Access the Interface: Open a web browser and navigate to http://localhost:5000 to interact with the tool.
 
+Note: This project is developed and tested with Python version 3.12.3.
+
 ## Project Structure
 project/
 
